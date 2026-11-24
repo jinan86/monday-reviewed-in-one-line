@@ -16,4 +16,4 @@ A [make.fun](https://make.fun/c/u-zeroxfive-monday-reviewed-in-one-line-e55de3c1
 python3 main.py
 ```
 
-Writes exactly one line (82 characters, no trailing newline) to `/output/entry.txt`. Deterministic: no network, no randomness, no clock, no file reads — two runs are byte-identical.
+Writes exactly one line (83 characters, no trailing newline) to `/output/entry.txt`. Deterministic: no network, no randomness, no clock, no file reads — two runs are byte-identical.
